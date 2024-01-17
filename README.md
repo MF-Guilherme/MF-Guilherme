@@ -37,8 +37,8 @@ class Developer():
     <tbody>
 	<tr>
 		<td>1</td>
-            	<td><a href="https://github.com/MF-Guilherme/impacta-commerce-webapi"><b>Web API</b></a></td>
-		<td> Web Development / API</td>
+            	<td><a href="https://github.com/MF-Guilherme/impacta-commerce-webapi"><b>E-Commerce API</b></a></td>
+		<td> Backend / API</td>
             	<td><img alt="Stars" src="https://img.shields.io/github/stars/MF-Guilherme/impacta-commerce-webapi?style=flat-square&labelColor=343b41" /></td>
             	<td><img alt="Forks" src="https://img.shields.io/github/forks/MF-Guilherme/impacta-commerce-webapi?style=flat-square&labelColor=343b41" /></td>
             	<td><img alt="Issues" src="https://img.shields.io/github/issues/MF-Guilherme/impacta-commerce-webapi?style=flat-square&labelColor=343b41" /></td>
@@ -46,7 +46,7 @@ class Developer():
         </tr>
         <tr>
 		<td>2</td>
-            	<td><a href="https://github.com/MF-Guilherme/impacta-commerce-webapp"><b>Commerce Interface</b></a></td>
+            	<td><a href="https://github.com/MF-Guilherme/impacta-commerce-webapp"><b>E-Commerce Interface</b></a></td>
 		<td>Front-End</td>
             	<td><img alt="Stars" src="https://img.shields.io/github/stars/MF-Guilherme/impacta-commerce-webapp?style=flat-square&labelColor=343b41" /></td>
             	<td><img alt="Forks" src="https://img.shields.io/github/forks/MF-Guilherme/impacta-commerce-webapp?style=flat-square&labelColor=343b41" /></td>
