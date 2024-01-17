@@ -3,7 +3,7 @@
 ```python 
 class Developer():
 
-	def initialize()
+	def initialize():
 ```
 
 <p align="left">
