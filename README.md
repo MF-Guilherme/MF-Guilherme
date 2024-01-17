@@ -1,9 +1,9 @@
-# Olá, eu sou Marco Castro 
+# Olá, eu sou Guilherme Montenegro
 
 ```python 
-class Programmer
+class Developer():
 
-	def initialize() 
+	def initialize()
 ```
 
 <p align="left">
@@ -46,8 +46,8 @@ class Programmer
         </tr>
         <tr>
 		<td>2</td>
-            	<td><a href="https://github.com/MF-Guilherme/impacta-commerce-webapp"><b>Rails vs Phoenix vs Laravel</b></a></td>
-		<td>Developer</td>
+            	<td><a href="https://github.com/MF-Guilherme/impacta-commerce-webapp"><b>Commerce Interface</b></a></td>
+		<td>Front-End</td>
             	<td><img alt="Stars" src="https://img.shields.io/github/stars/MF-Guilherme/impacta-commerce-webapp?style=flat-square&labelColor=343b41" /></td>
             	<td><img alt="Forks" src="https://img.shields.io/github/forks/MF-Guilherme/impacta-commerce-webapp?style=flat-square&labelColor=343b41" /></td>
             	<td><img alt="Issues" src="https://img.shields.io/github/issues/MF-Guilherme/impacta-commerce-webapp?style=flat-square&labelColor=343b41" /></td>
@@ -66,7 +66,7 @@ class Programmer
         <tr>
 		<td>4</td>
             	<td><a href="https://github.com/MF-Guilherme/SiteComunidade"><b>Site Comunidade</b></a></td>
-		<td>DevOps</td>
+		<td>Web Development / Flask</td>
             	<td><img alt="Stars" src="https://img.shields.io/github/stars/MF-Guilherme/SiteComunidade?style=flat-square&labelColor=343b41" /></td>
             	<td><img alt="Forks" src="https://img.shields.io/github/forks/MF-Guilherme/SiteComunidade?style=flat-square&labelColor=343b41" /></td>
             	<td><img alt="Issues" src="https://img.shields.io/github/issues/MF-Guilherme/SiteComunidade?style=flat-square&labelColor=343b41" /></td>
@@ -93,6 +93,7 @@ class Programmer
         <a href="https://stackshare.io/css-3" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40" /></a>   
         <a href="https://stackshare.io/javascript" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
         <a href="https://stackshare.io/docker" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" /></a>    
+        <a href="https://stackshare.io/c-sharp" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="docker" width="40" height="40" /></a>
     </p>
 
 
