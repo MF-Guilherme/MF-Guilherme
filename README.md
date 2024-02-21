@@ -35,7 +35,16 @@ class Developer():
         </tr>
     </thead>
     <tbody>
-	<tr>
+        <tr>
+            <td>1</td>
+                    <td><a href="https://github.com/MF-Guilherme/livraria-impacta"><b>Impacta Livraria</b></a></td>
+            <td>Full-Stack</td>
+                    <td><img alt="Stars" src="https://img.shields.io/github/stars/MF-Guilherme/livraria-impacta?style=flat-square&labelColor=343b41" /></td>
+                    <td><img alt="Forks" src="https://img.shields.io/github/forks/MF-Guilherme/livraria-impacta?style=flat-square&labelColor=343b41" /></td>
+                    <td><img alt="Issues" src="https://img.shields.io/github/issues/MF-Guilherme/livraria-impacta?style=flat-square&labelColor=343b41" /></td>
+                    <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MF-Guilherme/livraria-impacta?style=flat-square&labelColor=343b41" /></td>
+        </tr>
+	    <tr>
 		<td>1</td>
             	<td><a href="https://github.com/MF-Guilherme/impacta-commerce-webapi"><b>E-Commerce API</b></a></td>
 		<td> Backend / API</td>
@@ -45,15 +54,6 @@ class Developer():
             	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MF-Guilherme/impacta-commerce-webapi?style=flat-square&labelColor=343b41" /></td>
         </tr>
         <tr>
-		<td>2</td>
-            	<td><a href="https://github.com/MF-Guilherme/impacta-commerce-webapp"><b>E-Commerce Interface</b></a></td>
-		<td>Front-End</td>
-            	<td><img alt="Stars" src="https://img.shields.io/github/stars/MF-Guilherme/impacta-commerce-webapp?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Forks" src="https://img.shields.io/github/forks/MF-Guilherme/impacta-commerce-webapp?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Issues" src="https://img.shields.io/github/issues/MF-Guilherme/impacta-commerce-webapp?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MF-Guilherme/impacta-commerce-webapp?style=flat-square&labelColor=343b41" /></td>
-        </tr>
-        </tr>
         <td>3</td>
 		<td><a href="https://github.com/MF-Guilherme/Finan.ce"><b>Controle de Finanças</b></a></td>
 	 	<td>Web Development / Django</td>
@@ -63,14 +63,14 @@ class Developer():
             	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MF-Guilherme/Finan.ce?style=flat-square&labelColor=343b41" /></td>
         </tr>
         <tr>
-        <tr>
-		<td>4</td>
-            	<td><a href="https://github.com/MF-Guilherme/SiteComunidade"><b>Site Comunidade</b></a></td>
-		<td>Web Development / Flask</td>
-            	<td><img alt="Stars" src="https://img.shields.io/github/stars/MF-Guilherme/SiteComunidade?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Forks" src="https://img.shields.io/github/forks/MF-Guilherme/SiteComunidade?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Issues" src="https://img.shields.io/github/issues/MF-Guilherme/SiteComunidade?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MF-Guilherme/SiteComunidade?style=flat-square&labelColor=343b41" /></td>
+            <td>4</td>
+                    <td><a href="https://github.com/MF-Guilherme/my-study-plan"><b>Site Comunidade</b></a></td>
+            <td>Web Development / Flask</td>
+                    <td><img alt="Stars" src="https://img.shields.io/github/stars/MF-Guilherme/my-study-plan?style=flat-square&labelColor=343b41" /></td>
+                    <td><img alt="Forks" src="https://img.shields.io/github/forks/MF-Guilherme/my-study-plan?style=flat-square&labelColor=343b41" /></td>
+                    <td><img alt="Issues" src="https://img.shields.io/github/issues/MF-Guilherme/my-study-plan?style=flat-square&labelColor=343b41" /></td>
+                    <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MF-Guilherme/my-study-plan?style=flat-square&labelColor=343b41" /></td>
+        </tr>
     </tbody>
 </table>
 
