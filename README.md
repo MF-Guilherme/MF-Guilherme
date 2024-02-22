@@ -3,7 +3,7 @@
 ```python 
 class Developer():
 
-	def initialize(coffee, code):
+    def initialize(coffee, code):
         solutions = coffee + code
         return solutions
 ```
