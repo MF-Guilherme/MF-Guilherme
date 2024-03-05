@@ -1,4 +1,4 @@
-# Olá! Eu sou Guilherme Montenegro :v::smile:
+# Olá! Eu sou Guilherme :v::smile:
 
 ```python 
 class Developer():
