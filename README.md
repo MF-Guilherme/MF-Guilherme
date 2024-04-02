@@ -43,26 +43,33 @@ class Developer():
         <tr>
             <td>1</td>
                     <td><a href="https://github.com/MF-Guilherme/livraria-impacta"><b>Impacta Livraria</b></a></td>
-            <td>Web Development / Django</td>
+            <td>Web Development / Python-Django</td>
                     <td><img alt="Issues" src="https://img.shields.io/github/issues/MF-Guilherme/livraria-impacta?style=flat-square&labelColor=343b41" /></td>
                     <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MF-Guilherme/livraria-impacta?style=flat-square&labelColor=343b41" /></td>
         </tr>
-        <tr>
+	<tr>
             <td>2</td>
+                    <td><a href="https://github.com/MF-Guilherme/editora-spd"><b>Editora SPD</b></a></td>
+            <td>Web Development / Python-Django</td>
+                    <td><img alt="Issues" src="https://img.shields.io/github/issues/MF-Guilherme/editora-spd?style=flat-square&labelColor=343b41" /></td>
+                    <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MF-Guilherme/editora-spd?style=flat-square&labelColor=343b41" /></td>
+        </tr>
+        <tr>
+            <td>3</td>
                     <td><a href="https://github.com/MF-Guilherme/my-study-plan"><b>My study plan</b></a></td>
             <td>Python</td>
                     <td><img alt="Issues" src="https://img.shields.io/github/issues/MF-Guilherme/my-study-plan?style=flat-square&labelColor=343b41" /></td>
                     <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MF-Guilherme/my-study-plan?style=flat-square&labelColor=343b41" /></td>
         </tr>
         <tr>
-            <td>3</td>
+            <td>4</td>
             <td><a href="https://github.com/MF-Guilherme/Finan.ce"><b>Controle de Finanças</b></a></td>
-            <td>Web Development / Django</td>
+            <td>Web Development / Python-Django</td>
                     <td><img alt="Issues" src="https://img.shields.io/github/issues/MF-Guilherme/Finan.ce?style=flat-square&labelColor=343b41" /></td>
                     <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MF-Guilherme/Finan.ce?style=flat-square&labelColor=343b41" /></td>
         </tr>
         <tr>
-		<td>4</td>
+		<td>5</td>
             	<td><a href="https://github.com/MF-Guilherme/impacta-commerce-webapi"><b>E-Commerce API</b></a></td>
 		<td> Backend / API / Flask</td>
             	<td><img alt="Issues" src="https://img.shields.io/github/issues/MF-Guilherme/impacta-commerce-webapi?style=flat-square&labelColor=343b41" /></td>
