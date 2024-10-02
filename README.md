@@ -40,12 +40,13 @@ class Developer():
         </tr>
     </thead>
     <tbody>
-        <tr>
+    	<tr>
             <td>1</td>
-            <td><a href="https://github.com/MF-Guilherme/livraria-impacta"><b>Impacta Livraria</b></a></td>
-            <td>Python-Django / Bootstrap / MySQL</td>
+            <td><a href="https://github.com/MF-Guilherme/livraria-impacta"><b>Library Management</b></a></td>
+            <td>Python-Django-Django Rest Framework / Bootstrap / PostgreSQL</td>
             <td><img alt="Issues" src="https://img.shields.io/github/issues/MF-Guilherme/livraria-impacta?style=flat-square&labelColor=343b41" /></td>
             <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MF-Guilherme/livraria-impacta?style=flat-square&labelColor=343b41" /></td>
+        </tr>
         </tr>
 	    <tr>
             <td>2</td>
@@ -54,7 +55,6 @@ class Developer():
             <td><img alt="Issues" src="https://img.shields.io/github/issues/MF-Guilherme/editora-spd?style=flat-square&labelColor=343b41" /></td>
             <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MF-Guilherme/editora-spd?style=flat-square&labelColor=343b41" /></td>
         </tr>
-        <tr>
             <td>3</td>
             <td><a href="https://github.com/MF-Guilherme/lista-tecnica-papeis"><b>TecList</b></a></td>
             <td>Python-Django / Bootstrap / PostgreSQL</td>
@@ -86,7 +86,7 @@ class Developer():
         <a href="https://stackshare.io/python" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
         <a href="https://stackshare.io/django" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django" width="40" height="40" /></a>
         <h4 align="left">Medium Skill:</h4>
-        <a href="https://stackshare.io/flask" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40" /></a>
+        <a href="https://stackshare.io/django-rest-framework" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original-wordmark.svg" alt="Django Rest Framework" width="40" height="40" /></a>
 	<a href="https://stackshare.io/html5" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40" /></a>       
         <a href="https://stackshare.io/css-3" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40" /></a>   
         <a href="https://stackshare.io/javascript" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
