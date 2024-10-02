@@ -42,10 +42,10 @@ class Developer():
     <tbody>
     	<tr>
             <td>1</td>
-            <td><a href="https://github.com/MF-Guilherme/livraria-impacta"><b>Library Management</b></a></td>
+            <td><a href="https://github.com/MF-Guilherme/library-management"><b>Library Management</b></a></td>
             <td>Python-Django-Django Rest Framework / Bootstrap / PostgreSQL</td>
-            <td><img alt="Issues" src="https://img.shields.io/github/issues/MF-Guilherme/livraria-impacta?style=flat-square&labelColor=343b41" /></td>
-            <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MF-Guilherme/livraria-impacta?style=flat-square&labelColor=343b41" /></td>
+            <td><img alt="Issues" src="https://img.shields.io/github/issues/MF-Guilherme/library-management?style=flat-square&labelColor=343b41" /></td>
+            <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MF-Guilherme/library-management?style=flat-square&labelColor=343b41" /></td>
         </tr>
         </tr>
 	    <tr>
